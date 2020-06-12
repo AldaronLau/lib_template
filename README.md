@@ -5,10 +5,10 @@
 [![tests](https://github.com/libcala/{{crate_name}}/workflows/tests/badge.svg)](https://github.com/libcala/{{crate_name}}/actions?query=workflow%3Atests)
 [![changelog](https://img.shields.io/badge/changelog-green.svg)]()
 
+[Getting Started](https://docs.rs/{{crate_name}}#getting-started) |
 [Changelog](https://github.com/libcala/{{crate_name}}/blob/master/CHANGELOG.md) |
-[GitHub](https://github.com/libcala/{{crate_name}}) |
-[Tutorials](https://docs.rs/{{crate_name}}#tutorials) |
-[Cala Blog](https://libcala.github.io#blog)
+[Cala Blog](https://libcala.github.io#blog) |
+[GitHub](https://github.com/libcala/{{crate_name}})
 
 # {{crate_name}}
 Template to use for libcala libraries: `cargo generate --git https://github.com/libcala/lib_template`
