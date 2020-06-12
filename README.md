@@ -11,7 +11,7 @@
 [GitHub](https://github.com/libcala/{{crate_name}})
 
 # {{crate_name}}
-Template to use for libcala libraries: `cargo generate --git https://github.com/libcala/lib_template`
+Template to use for libcala libraries: `cargo generate -f --git https://github.com/libcala/lib_template`
 
 ### Supports
  - Doing this cool thing
