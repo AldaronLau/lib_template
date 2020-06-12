@@ -19,8 +19,8 @@
 /// ```
 
 #![doc(
-    html_logo_url = "https://libcala.github.io/logo.svg",
-    html_favicon_url = "https://libcala.github.io/icon.svg",
+    html_logo_url = "https://raw.githubusercontent.com/libcala/{{crate_name}}/master/res/logo.svg",
+    html_favicon_url = "https://raw.githubusercontent.com/libcala/{{crate_name}}/master/res/logo.svg",
     html_root_url = "https://docs.rs/{{crate_name}}"
 )]
 #![forbid(unsafe_code)]
