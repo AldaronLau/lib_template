@@ -3,7 +3,7 @@
 [![crates.io](https://img.shields.io/crates/v/{{crate_name}}.svg)](https://crates.io/crates/{{crate_name}})
 [![docs.rs](https://docs.rs/{{crate_name}}/badge.svg)](https://docs.rs/{{crate_name}})
 [![tests](https://github.com/libcala/{{crate_name}}/workflows/tests/badge.svg)](https://github.com/libcala/{{crate_name}}/actions?query=workflow%3Atests)
-[![changelog](https://img.shields.io/badge/changelog-green.svg)]()
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/libcala/stick.svg)](http://isitmaintained.com/project/libcala/stick "Percentage of issues still open")
 
 [Getting Started](https://docs.rs/{{crate_name}}#getting-started) |
 [Changelog](https://github.com/libcala/{{crate_name}}/blob/master/CHANGELOG.md) |
