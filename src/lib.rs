@@ -7,16 +7,16 @@
 // or http://opensource.org/licenses/Zlib>, at your option. This file may not be
 // copied, modified, or distributed except according to those terms.
 
-/// # Getting Started
-/// Add the following to your `Cargo.toml`:
-/// ```toml
-/// [dependencies.{{crate_name}}]
-/// version = "0.0.1"
-/// ```
-///
-/// ```rust
-/// // TODO
-/// ```
+//! # Getting Started
+//! Add the following to your `Cargo.toml`:
+//! ```toml
+//! [dependencies.{{crate_name}}]
+//! version = "0.0.1"
+//! ```
+//!
+//! ```rust
+//! // TODO
+//! ```
 
 #![doc(
     html_logo_url = "https://raw.githubusercontent.com/libcala/{{crate_name}}/master/res/logo.svg",
